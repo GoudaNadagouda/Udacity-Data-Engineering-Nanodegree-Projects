@@ -20,6 +20,11 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 
 They'd like a data engineer to create an Apache Cassandra database which can create queries on song play data to answer the questions, and wish to bring you on the project. Your role is to create a database for this analysis. You'll be able to test your database by running queries given to you by the analytics team from Sparkify to create the results.
 
+Designed a NoSQL database using Apache Cassandra based on the original schema outlined in project one. Skills include:
+* Created a nosql database using Apache Cassandra (both locally and with docker containers)
+* Developed denormalized tables optimized for a specific set queries and business needs
+
+Proficiencies used: Python, Apache Cassandra, Denormalization
 
 ## Project 3: Data Warehouse
 A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
